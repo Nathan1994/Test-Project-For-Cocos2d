@@ -9,10 +9,13 @@
 ## Operating Environment
 - iOS 8.2(Above 8.0 is all accepted)
 
+---
+---
+
 # 附：Git简单使用
 
 ##测试远端仓库地址
-[https://github.com/Nathan1994/Test-Project-For-Cocos2dx](https://github.com/Nathan1994/Test-Project-For-Cocos2dx)
+[https://github.com/Nathan1994/Test-Project-For-Cocos2d](https://github.com/Nathan1994/Test-Project-For-Cocos2d)
 
 ##准备
 - [Github Account](http://www.github.com)
