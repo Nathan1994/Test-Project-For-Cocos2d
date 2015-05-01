@@ -4,7 +4,7 @@
 - The cocos library is not included in this respository. You need to add it manually.
 
 ## Development Environment
-- Xcode 6.2
+- Xcode 6.2 and later
 
 ## Operating Environment
 - iOS 8.2(Above 8.0 is all accepted)
