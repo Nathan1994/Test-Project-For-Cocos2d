@@ -9,7 +9,7 @@ Scene* HelloWorld::createScene()
     scene->getPhysicsWorld()->setGravity(Vect(0,0));
 //    scene->getPhysicsWorld()->setDebugDrawMask(PhysicsWorld::DEBUGDRAW_ALL);
 
-    
+    cout << "hello" << endl;
     // 'layer' is an autorelease object
     auto layer = HelloWorld::create();
 
